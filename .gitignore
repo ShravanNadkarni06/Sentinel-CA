@@ -2,3 +2,7 @@ venv/
 physics/.env
 __pycache__/
 *.pyc
+.env
+__pycache__/
+*.pyc
+c4f6b8c69c03b1a73d560b103756bc44e377c4fb
